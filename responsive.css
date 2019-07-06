@@ -1,0 +1,18 @@
+@media screen and (max-width:768px){
+    #logReg {
+        display: none;
+        
+    }
+    .sunmit1{
+        display:none;
+    }
+   /*  #carousel-id{
+    	display: none;
+    } */
+    .menu_drop{
+    	z-index: 1;
+    	background-color: red;
+    }
+    
+    
+}
